@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lists">
+        <item>그냥 이야기 하기</item>
+        <item>만나 술먹기</item>
+        <item>고민 들어주기</item>
+    </string-array>
+</resources>
